@@ -2,7 +2,7 @@
 # Budget Tracker - PWA
 
 # Description
-This budget tracker tool is a progressive web application allowing user to track their expenses even if there is no network connection available. You can add or subtract transactions and the graph will be updated accordingly. Offline functionality is enabled with IndexedDB and updating the MongoDB database once connection is back online.
+This budget tracker tool is a progressive web application allowing users to track their expenses even if there is no network connection available. You can add or subtract transactions and the graph will be updated accordingly. Offline functionality is enabled with IndexedDB and updating the MongoDB database once connection is back online.
 
 ### Table of Contents
 
